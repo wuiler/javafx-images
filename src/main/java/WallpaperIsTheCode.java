@@ -10,7 +10,7 @@ import javafx.scene.control.MenuItem;
 public class WallpaperIsTheCode extends Application {
 	@Override
 	public void start( Stage myApp ) {
-		String awesomeImageUrl = "WallpaperIsTheCode.jpg";
+		String awesomeImageUrl = "https://raw.githubusercontent.com/wuiler/java-art/master/wallpapers/WallpaperIsTheCode.jpg";
 
 		String ourAwesomeImageUrl = java.util.Optional.ofNullable( getParameters().getNamed().get("url") ).orElse(awesomeImageUrl);
 
