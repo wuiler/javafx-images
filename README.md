@@ -3,7 +3,7 @@
 
 I create this example because in all these times i see too many wallpaper with code inside, that seem to be in Java but they are not.  
 So, this is a litte JavaFX app where the code can "convert" into the Wallpaper and it is.  
-The theme i use is [Dracula Theme](https://draculatheme.com/) <- Great site, for the wallpaper code.   
+The theme IDE used it is [Dracula Theme](https://draculatheme.com/) <- Great site, for the wallpaper code.   
 
 ## Requirements and installation
 The site [OpenJFX](https://openjfx.io/)  has the docs to install [Java](https://openjfx.io/openjfx-docs/#install-java) and [JavaFX](https://openjfx.io/openjfx-docs/#install-javafx).  
