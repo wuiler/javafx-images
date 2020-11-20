@@ -1,7 +1,7 @@
 # JavaFX-Wallpaper
 ## Intro 
 
-I create this example because in all these times i see too many wallpaper with code inside, that seem to be in Java but they are not.  
+I created this example because on all these occasions i saw too many wallpaper with code inside, that seem to be in Java but they are not.  
 So, this is a litte JavaFX app where the code can "convert" into the Wallpaper and it is.  
 The theme IDE used it is [Dracula Theme](https://draculatheme.com/) <- Great site, for the wallpaper code.   
 
