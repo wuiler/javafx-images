@@ -1,5 +1,5 @@
 /**
- *  Build with Love in JAVA
+ *  Build with <3 in JAVA
  *  https://github.com/wuiler/java-art 
  **/
 import javafx.application.Application;
